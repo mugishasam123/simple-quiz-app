@@ -12,6 +12,10 @@
 
 Additional description about the project and its features.
 
+## Live Demo
+
+[Live demo](https://simple-quiz-app42.netlify.app/)
+
 ## Built With
 
 - Major languages (JavaScript)
