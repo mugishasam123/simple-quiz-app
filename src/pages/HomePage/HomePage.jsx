@@ -1,9 +1,9 @@
 import React from 'react'
-import QuestionList from "../../components/QuestionList/QuestionList"
+import Home from '../../components/Home/Home'
 
 const HomePage = () => {
   return (
-    <QuestionList/>
+    <Home/>
   )
 }
 
