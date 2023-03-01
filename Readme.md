@@ -1,8 +1,8 @@
-![](https://img.shields.io/badge/MyTodolist-blue)
+![](https://img.shields.io/badge/Questapp-blue)
 
-# My Todolist
+# Questapp
 
-> Todolist is an app that allows you to track all of your daily activities by setting up activities,editing and removing them . It is built using React js
+> questapp is an app that allows you to play a game of answering questions and provides results at the end. It is built using React js
 
 <br/>
 
@@ -41,9 +41,9 @@ To get a local copy up and running follow these simple example steps.
 #### Clone this repository
 
 ```bash
-$ git clone https://github.com/mugishasam123/Todolist
+$ git clone https://github.com/mugishasam123/simple-quiz-app
 .git
-$ cd Todolist
+$ cd simple-quiz-app
 ```
 
 #### Run project
@@ -69,7 +69,7 @@ $ npm run dev # this will open it in the browser and enable hot reloading
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mugishasam123/My-Todolist/issues).
+Feel free to check the [issues page](https://github.com/mugishasam123/simple-quiz-app/issues).
 
 <br>
 
