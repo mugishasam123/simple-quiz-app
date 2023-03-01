@@ -4,7 +4,7 @@ import QuestionCard from "../components/QuestionCard/QuestionCard.jsx";
 import QuestionList from "../components/QuestionList/QuestionList.jsx";
 import Questions from "../Data/Questions.jsx";
 
-describe("Accordion test", () => {
+describe("Questions components", () => {
   test("testing if QuestionCard is rendered", () => {
     const option = { id: 0, text: "New York City", isCorrect: false };
     const optionClicked = () => {
