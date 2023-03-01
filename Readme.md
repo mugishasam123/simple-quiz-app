@@ -4,11 +4,17 @@
 
 > questapp is an app that allows you to play a game of answering questions and provides results at the end. It is built using React js
 
-<br/>
+<br/>![Screenshot from 2023-03-01 12-09-11](https://user-images.githubusercontent.com/90524466/222110273-0e49db2c-5229-4622-9653-63b500d22e77.png)
+
 
 <br/>
+
 
 Additional description about the project and its features.
+
+## Live Demo
+
+[Live demo](https://simple-quiz-app42.netlify.app/)
 
 ## Built With
 
