@@ -25,6 +25,8 @@ Additional description about the project and its features.
   ```bash
   - vite
   - tailwindcss
+  - vitest
+  - React tesing library
   - Git(version control)
 
   ```
@@ -42,7 +44,12 @@ To get a local copy up and running follow these simple example steps.
 - [Git](https://git-scm.com/downloads)
 - [Node](https://nodejs.org/en/download/)
 
-### Usage
+### Tests
+
+```bash
+$ npm run test
+
+```
 
 #### Clone this repository
 
