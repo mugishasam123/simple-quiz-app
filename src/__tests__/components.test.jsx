@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import { render, screen } from "@testing-library/react";
+import { render} from "@testing-library/react";
 import QuestionCard from "../components/QuestionCard/QuestionCard.jsx";
 import QuestionList from "../components/QuestionList/QuestionList.jsx";
 import Questions from "../Data/Questions.jsx";
